@@ -1,0 +1,48 @@
+{
+  "contracts": {},
+  "coordinators": [],
+  "openedMarkets": [
+    {
+      "name": "TON",
+      "ticker": "TONUSDC",
+      "quoteAsset": "USDC",
+      "baseAsset": "TON",
+      "address": "EQCJWp7H2N-RaUjxWLG6AEPlCjC29e_oC_e3KjAhEiG7XNFX",
+      "tags": [
+        
+      ]
+    },
+    {
+      "name": "BTC",
+      "ticker": "BTCUSDC",
+      "quoteAsset": "USDC",
+      "baseAsset": "BTC",
+      "address": "EQDGsyGzqW3ZHU6WWATWCwhW3X6iGrxztCfgUX3NTBDzW4JX",
+      "tags": [
+        
+      ]
+    },
+    {
+      "name": "TSLA",
+      "ticker": "TSLAUSDC",
+      "quoteAsset": "USDC",
+      "baseAsset": "TSLA",
+      "address": "EQCudugq9W3_Kx1V-9YApIk_mzJplq_haWhEQgpCJ-EAgMsc",
+      "tags": [
+        
+      ]
+    },
+    {
+      "name": "EUR",
+      "ticker": "EURUSDC",
+      "quoteAsset": "USDC",
+      "baseAsset": "EUR",
+      "address": "EQALYbTVLbmbJ1Qe72g0DokECMAXjeQcLY35aDyVbYPe9BRC",
+      "tags": [
+        
+      ]
+    }
+  ],
+  "liquiditySources": [],
+  "assets": []
+}
