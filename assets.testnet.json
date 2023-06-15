@@ -2,36 +2,36 @@
   {
     "name": "BTC",
     "index": 1,
-    "type: "Crypto"
+    "type": "Crypto"
   },
   {
     "name": "ETH",
     "index": 2,
-    "type: "Crypto"
+    "type": "Crypto"
   },
   {
     "name": "ATOM",
     "index": 3,
-    "type: "Crypto"
+    "type": "Crypto"
   },
   {
     "name": "XRP",
-    "index": 1,
-    "type: "Crypto"
+    "index": 4,
+    "type": "Crypto"
   },
   {
     "name": "DOGE",
-    "index": 1,
-    "type: "Crypto"
+    "index": 5,
+    "type": "Crypto"
   },
   {
     "name": "XAU",
-    "index": 1,
-    "type: "Crypto"
+    "index": 6,
+    "type": "Commodity"
   },
   {
     "name": "TSLA",
-    "index": 1,
-    "type: "Crypto"
+    "index": 7,
+    "type": "Stock"
   }
 ]
