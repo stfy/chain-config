@@ -1,0 +1,37 @@
+[
+  {
+    "name": "BTC",
+    "index": 1,
+    "type: "Crypto"
+  },
+  {
+    "name": "ETH",
+    "index": 2,
+    "type: "Crypto"
+  },
+  {
+    "name": "ATOM",
+    "index": 3,
+    "type: "Crypto"
+  },
+  {
+    "name": "XRP",
+    "index": 1,
+    "type: "Crypto"
+  },
+  {
+    "name": "DOGE",
+    "index": 1,
+    "type: "Crypto"
+  },
+  {
+    "name": "XAU",
+    "index": 1,
+    "type: "Crypto"
+  },
+  {
+    "name": "TSLA",
+    "index": 1,
+    "type: "Crypto"
+  }
+]
