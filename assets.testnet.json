@@ -33,5 +33,10 @@
     "name": "TSLA",
     "index": 7,
     "type": "Stock"
+  },
+  {
+    "name": "EUR",
+    "index": 8,
+    "type": "Forex"
   }
 ]
