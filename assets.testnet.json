@@ -38,5 +38,10 @@
     "name": "EUR",
     "index": 8,
     "type": "Forex"
+  },
+  {
+    "name": "TON",
+    "index": 9,
+    "type": "Crypto"
   }
 ]
