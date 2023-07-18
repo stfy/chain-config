@@ -123,24 +123,12 @@
       },
       "coordinator": "@default",
       "vaultAddress": "EQCJrrFQrpA_WYEYnmthlBGpxxTorT6l0ypV8SyGLusec7dL"
-    },
-    {
-      "asset": {
-        "name": "oUSDT",
-        "assetId": "EQCKt2WPGX-fh0cIAz38Ljd_OKQjoZE_cqk7QrYGsNP6wUh-"
-      },
-      "coordinator": "@default",
-      "vaultAddress": "EQBijGvgqILV0y7zvs9I6onfR2VJsTXMEWnx5LP1pmWblYBo"
     }
   ],
   "assets": [
     {
       "name": "TSN",
       "assetId": "GSm9yGjTcc1FxqkuBXFuhMoFGSMCzdDPunEcEZvkM9hJ"
-    },
-    {
-      "name": "oUSDT",
-      "assetId": "EQCKt2WPGX-fh0cIAz38Ljd_OKQjoZE_cqk7QrYGsNP6wUh-"
     },
     {
       "name": "USDT",
