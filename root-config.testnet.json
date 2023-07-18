@@ -117,6 +117,7 @@
   ],
   "liquiditySources": [
     {
+      "futures": true,
       "asset": {
         "name": "USDT",
         "assetId": "EQDnRHbK5vJBLQyAnS6V8XNoRerCebnn9A2FlVlHtFVLFGZ-"
