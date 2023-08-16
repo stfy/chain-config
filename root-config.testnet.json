@@ -118,6 +118,7 @@
   "liquiditySources": [
     {
       "futures": true,
+      "spot": false,
       "asset": {
         "name": "USDT",
         "assetId": "EQDnRHbK5vJBLQyAnS6V8XNoRerCebnn9A2FlVlHtFVLFGZ-"
@@ -129,11 +130,13 @@
   "assets": [
     {
       "name": "TSN",
-      "assetId": "GSm9yGjTcc1FxqkuBXFuhMoFGSMCzdDPunEcEZvkM9hJ"
+      "assetId": "GSm9yGjTcc1FxqkuBXFuhMoFGSMCzdDPunEcEZvkM9hJ",
+      "decimals": 6
     },
     {
       "name": "USDT",
-      "assetId": "EQDnRHbK5vJBLQyAnS6V8XNoRerCebnn9A2FlVlHtFVLFGZ-"
+      "assetId": "EQDnRHbK5vJBLQyAnS6V8XNoRerCebnn9A2FlVlHtFVLFGZ-",
+      "decimals": 6
     }
   ]
 }
