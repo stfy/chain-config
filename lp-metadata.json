@@ -1,6 +1,6 @@
 {
   "symbol": "jUSDT-SLP",
-  "name": "jUSDT Storm LP ",
+  "name": "jUSDT Storm LP",
   "description": "Bridged Tether USD locked in liquidity in Storm Trade (storm.tg)",
   "decimals": 9,
   "image": "https://stormtrade.dev/assets/apple-touch-icon-144x144.png"
