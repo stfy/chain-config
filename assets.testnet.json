@@ -43,5 +43,10 @@
     "name": "TON",
     "index": 10,
     "type": "Crypto"
+  },
+  {
+    "name": "LTC",
+    "index": 11,
+    "type": "Crypto"
   }
 ]
