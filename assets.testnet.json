@@ -48,5 +48,20 @@
     "name": "LTC",
     "index": 11,
     "type": "Crypto"
+  },
+  {
+    "name": "GBP",
+    "index": 12,
+    "type": "Forex"
+  },
+  {
+    "name": "XAG",
+    "index": 13,
+    "type": "Commodity"
+  },
+  {
+    "name": "JPY",
+    "index": 14,
+    "type": "Forex"
   }
 ]
