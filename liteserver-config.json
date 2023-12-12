@@ -363,6 +363,14 @@
         "@type": "pub.ed25519",
         "key": "ksSbgeu5tKOAtKwEEVOtmciISLxZ7DYjsigrECiPt7c="
       }
+    },
+    {
+      "ip": 1959525236,
+      "port": 21996,
+      "id": {
+        "@type": "pub.ed25519",
+        "key": "7WBOi8PfLvWHFNMcLffemzVJULpO/QSAjftoR2i8dwo="
+      }
     }
   ],
   "validator": {
