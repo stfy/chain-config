@@ -63,5 +63,20 @@
     "name": "JPY",
     "index": 14,
     "type": "Forex"
+  },
+  {
+    "name": "SOL",
+    "index": 15,
+    "type": "Crypto"
+  },
+  {
+    "name": "1000BONK",
+    "index": 16,
+    "type": "Crypto"
+  },
+  {
+    "name": "ORDI",
+    "index": 17,
+    "type": "Crypto"
   }
 ]
