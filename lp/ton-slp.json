@@ -1,0 +1,7 @@
+{
+  "symbol": "TON-SLP",
+  "name": "TON Storm LP",
+  "description": "TON locked in liquidity in Storm Trade (storm.tg)",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/ton-slp-logo.png"
+}
