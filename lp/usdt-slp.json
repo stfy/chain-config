@@ -1,0 +1,15 @@
+{
+
+  "name": "USDT Storm LP",
+  "symbol": "USDT-SLP",
+  "decimals": "6",
+  "image": "https://static.storm.tg/usdt-slp-logo.png",
+  "description": "Native Tether USD locked in liquidity in Storm Trade (storm.tg)",
+  "social": [
+    "https://t.me/storm_trade_news",
+    "https://t.me/storm_trade_fam"
+  ],
+  "websites": [
+    "https://storm.tg"
+  ]
+}
