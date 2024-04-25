@@ -78,5 +78,10 @@
     "name": "ORDI",
     "index": 17,
     "type": "Crypto"
+  },
+  {
+    "name": "1000PEPE",
+    "index": 18,
+    "type": "Crypto"
   }
 ]
