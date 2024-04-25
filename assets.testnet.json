@@ -83,5 +83,10 @@
     "name": "1000PEPE",
     "index": 18,
     "type": "Crypto"
+  },
+  {
+    "name": "WIF",
+    "index": 19,
+    "type": "Crypto"
   }
 ]
