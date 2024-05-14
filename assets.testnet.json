@@ -88,5 +88,20 @@
     "name": "WIF",
     "index": 19,
     "type": "Crypto"
+  },
+  {
+    "name": "ADA",
+    "index": 20,
+    "type": "Crypto"
+  },
+  {
+    "name": "DUREV",
+    "index": 21,
+    "type": "Crypto"
+  },
+  {
+    "name": "JETTON",
+    "index": 22,
+    "type": "Crypto"
   }
 ]
