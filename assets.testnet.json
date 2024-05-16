@@ -103,5 +103,10 @@
     "name": "JETTON",
     "index": 22,
     "type": "Crypto"
+  },
+  {
+    "name": "NOT",
+    "index": 23,
+    "type": "Crypto"
   }
 ]
