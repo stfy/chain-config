@@ -113,5 +113,10 @@
     "name": "BNB",
     "index": 24,
     "type": "Crypto"
+  },
+  {
+    "name": "ANON",
+    "index": 25,
+    "type": "Crypto"
   }
 ]
