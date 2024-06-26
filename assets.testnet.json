@@ -118,5 +118,15 @@
     "name": "ANON",
     "index": 25,
     "type": "Crypto"
+  },
+  {
+    "name": "ZK",
+    "index": 26,
+    "type": "Crypto"
+  },
+  {
+    "name": "ZRO",
+    "index": 27,
+    "type": "Crypto"
   }
 ]
