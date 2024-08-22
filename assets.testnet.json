@@ -128,5 +128,20 @@
     "name": "ZRO",
     "index": 27,
     "type": "Crypto"
+  },
+  {
+    "name": "SUN",
+    "index": 28,
+    "type": "Crypto"
+  },
+  {
+    "name": "AVAX",
+    "index": 29,
+    "type": "Crypto"
+  },
+  {
+    "name": "TRX",
+    "index": 30,
+    "type": "Crypto"
   }
 ]
