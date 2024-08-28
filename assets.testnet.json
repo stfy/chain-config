@@ -143,5 +143,10 @@
     "name": "TRX",
     "index": 30,
     "type": "Crypto"
+  },
+  {
+    "name": "DOGS",
+    "index": 31,
+    "type": "Crypto"
   }
 ]
