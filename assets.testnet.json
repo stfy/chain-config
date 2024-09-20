@@ -148,5 +148,10 @@
     "name": "DOGS",
     "index": 31,
     "type": "Crypto"
+  },
+  {
+    "name": "CATI",
+    "index": 32,
+    "type": "Crypto"
   }
 ]
