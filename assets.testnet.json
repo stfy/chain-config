@@ -153,5 +153,10 @@
     "name": "CATI",
     "index": 32,
     "type": "Crypto"
+  },
+   {
+    "name": "HMSTR",
+    "index": 33,
+    "type": "Crypto"
   }
 ]
