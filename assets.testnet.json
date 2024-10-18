@@ -158,5 +158,10 @@
     "name": "HMSTR",
     "index": 33,
     "type": "Crypto"
+  },
+  {
+    "name": "USDT",
+    "index": 34,
+    "type": "Crypto"
   }
 ]
