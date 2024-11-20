@@ -154,7 +154,7 @@
     "index": 32,
     "type": "Crypto"
   },
-   {
+  {
     "name": "HMSTR",
     "index": 33,
     "type": "Crypto"
@@ -162,6 +162,41 @@
   {
     "name": "USDT",
     "index": 34,
+    "type": "Crypto"
+  },
+  {
+    "name": "X",
+    "index": 35,
+    "type": "Crypto"
+  },
+  {
+    "name": "PNUT",
+    "index": 36,
+    "type": "Crypto"
+  },
+  {
+    "name": "GOAT",
+    "index": 37,
+    "type": "Crypto"
+  },
+  {
+    "name": "POPCAT",
+    "index": 38,
+    "type": "Crypto"
+  },
+  {
+    "name": "LINK",
+    "index": 39,
+    "type": "Crypto"
+  },
+  {
+    "name": "SUI",
+    "index": 40,
+    "type": "Crypto"
+  },
+  {
+    "name": "APT",
+    "index": 41,
     "type": "Crypto"
   }
 ]
