@@ -198,5 +198,10 @@
     "name": "APT",
     "index": 41,
     "type": "Crypto"
+  },
+  {
+    "name": "MEMEFI",
+    "index": 42,
+    "type": "Crypto"
   }
 ]
