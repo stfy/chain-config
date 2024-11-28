@@ -198,5 +198,10 @@
     "name": "MEMEFI",
     "index": 42,
     "type": "Crypto"
+  },
+  {
+    "name": "MAJOR",
+    "index": 43,
+    "type": "Crypto"
   }
 ]
