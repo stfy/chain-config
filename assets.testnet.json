@@ -203,5 +203,15 @@
     "name": "MAJOR",
     "index": 43,
     "type": "Crypto"
+  },
+  {
+    "name": "USOIL",
+    "index": 44,
+    "type": "Commodity"
+  },
+  {
+    "name": "UKOIL",
+    "index": 45,
+    "type": "Commodity"
   }
 ]
