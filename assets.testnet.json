@@ -213,5 +213,30 @@
     "name": "UKOIL",
     "index": 45,
     "type": "Commodity"
+  },
+  {
+    "name": "PENGU",
+    "index": 46,
+    "type": "Crypto"
+  },
+  {
+    "name": "HYPE",
+    "index": 47,
+    "type": "Crypto"
+  },
+  {
+    "name": "ONDO",
+    "index": 48,
+    "type": "Crypto"
+  },
+  {
+    "name": "WLD",
+    "index": 49,
+    "type": "Crypto"
+  },
+  {
+    "name": "DYDX",
+    "index": 50,
+    "type": "Crypto"
   }
 ]
