@@ -238,5 +238,50 @@
     "name": "DYDX",
     "index": 50,
     "type": "Crypto"
+  },
+  {
+    "name": "MSFT",
+    "index": 51,
+    "type": "Stock"
+  },
+  {
+    "name": "AMD",
+    "index": 52,
+    "type": "Stock"
+  },
+  {
+    "name": "AAPL",
+    "index": 53,
+    "type": "Stock"
+  },
+  {
+    "name": "NVDA",
+    "index": 54,
+    "type": "Stock"
+  },
+  {
+    "name": "META",
+    "index": 55,
+    "type": "Stock"
+  },
+  {
+    "name": "AMZN",
+    "index": 56,
+    "type": "Stock"
+  },
+  {
+    "name": "NFLX",
+    "index": 57,
+    "type": "Stock"
+  },
+  {
+    "name": "GOOG",
+    "index": 58,
+    "type": "Stock"
+  },
+  {
+    "name": "MSTR",
+    "index": 59,
+    "type": "Stock"
   }
 ]
