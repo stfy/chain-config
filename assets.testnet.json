@@ -283,5 +283,20 @@
     "name": "MSTR",
     "index": 59,
     "type": "Stock"
+  },
+  {
+    "name": "FARTCOIN",
+    "index": 60,
+    "type": "Crypto"
+  },
+  {
+    "name": "AI16Z",
+    "index": 61,
+    "type": "Crypto"
+  },
+  {
+    "name": "AIXBT",
+    "index": 62,
+    "type": "Crypto"
   }
 ]
