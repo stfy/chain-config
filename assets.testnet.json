@@ -298,5 +298,10 @@
     "name": "AIXBT",
     "index": 62,
     "type": "Crypto"
+  },
+  {
+    "name": "TRUMP",
+    "index": 63,
+    "type": "Crypto"
   }
 ]
