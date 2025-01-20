@@ -303,5 +303,10 @@
     "name": "TRUMP",
     "index": 63,
     "type": "Crypto"
+  },
+  {
+    "name": "MELANIA",
+    "index": 64,
+    "type": "Crypto"
   }
 ]
