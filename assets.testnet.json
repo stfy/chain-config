@@ -308,5 +308,40 @@
     "name": "MELANIA",
     "index": 64,
     "type": "Crypto"
+  },
+  {
+    "name": "CHF",
+    "index": 65,
+    "type": "Forex"
+  },
+  {
+    "name": "AUD",
+    "index": 66,
+    "type": "Forex"
+  },
+  {
+    "name": "CAD",
+    "index": 67,
+    "type": "Forex"
+  },
+  {
+    "name": "CHY",
+    "index": 68,
+    "type": "Forex"
+  },
+  {
+    "name": "NZD",
+    "index": 69,
+    "type": "Forex"
+  },
+  {
+    "name": "JUP",
+    "index": 70,
+    "type": "Crypto"
+  },
+  {
+    "name": "ENA",
+    "index": 71,
+    "type": "Crypto"
   }
 ]
