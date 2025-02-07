@@ -60,7 +60,7 @@
     "type": "Commodity"
   },
   {
-    "name": "JPY",
+    "name": "USDJPY",
     "index": 14,
     "type": "Forex"
   },
@@ -310,7 +310,7 @@
     "type": "Crypto"
   },
   {
-    "name": "CHF",
+    "name": "USDCHF",
     "index": 65,
     "type": "Forex"
   },
