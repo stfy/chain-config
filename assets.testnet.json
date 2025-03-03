@@ -343,5 +343,45 @@
     "name": "ENA",
     "index": 71,
     "type": "Crypto"
+  },
+  {
+    "name": "BERA",
+    "index": 72,
+    "type": "Crypto"
+  },
+  {
+    "name": "DOT",
+    "index": 73,
+    "type": "Crypto"
+  },
+  {
+    "name": "TST",
+    "index": 74,
+    "type": "Crypto"
+  },
+  {
+    "name": "FIL",
+    "index": 75,
+    "type": "Crypto"
+  },
+  {
+    "name": "XLM",
+    "index": 76,
+    "type": "Crypto"
+  },
+  {
+    "name": "CAKE",
+    "index": 77,
+    "type": "Crypto"
+  },
+  {
+    "name": "UNI",
+    "index": 78,
+    "type": "Crypto"
+  },
+  {
+    "name": "OM",
+    "index": 79,
+    "type": "Crypto"
   }
 ]
