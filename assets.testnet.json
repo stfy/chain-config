@@ -383,5 +383,45 @@
     "name": "OM",
     "index": 79,
     "type": "Crypto"
+  },
+  {
+    "name": "SPX",
+    "index": 80,
+    "type": "Stock"
+  },
+  {
+    "name": "DASH",
+    "index": 81,
+    "type": "Crypto"
+  },
+  {
+    "name": "ZCASH",
+    "index": 82,
+    "type": "Crypto"
+  },
+  {
+    "name": "XMR",
+    "index": 83,
+    "type": "Crypto"
+  },
+  {
+    "name": "IMX",
+    "index": 84,
+    "type": "Crypto"
+  },
+  {
+    "name": "NEAR",
+    "index": 85,
+    "type": "Crypto"
+  },
+  {
+    "name": "JASMY",
+    "index": 86,
+    "type": "Crypto"
+  },
+  {
+    "name": "AAVE",
+    "index": 87,
+    "type": "Crypto"
   }
 ]
