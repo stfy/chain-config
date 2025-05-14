@@ -400,11 +400,6 @@
     "type": "Crypto"
   },
   {
-    "name": "XMR",
-    "index": 83,
-    "type": "Crypto"
-  },
-  {
     "name": "IMX",
     "index": 84,
     "type": "Crypto"
@@ -422,6 +417,306 @@
   {
     "name": "AAVE",
     "index": 87,
+    "type": "Crypto"
+  },
+  {
+    "name": "SHIB",
+    "index": 88,
+    "type": "Crypto"
+  },
+  {
+    "name": "HBAR",
+    "index": 89,
+    "type": "Crypto"
+  },
+  {
+    "name": "BCH",
+    "index": 90,
+    "type": "Crypto"
+  },
+  {
+    "name": "XMR",
+    "index": 91,
+    "type": "Crypto"
+  },
+  {
+    "name": "BGB",
+    "index": 92,
+    "type": "Crypto"
+  },
+  {
+    "name": "TAO",
+    "index": 93,
+    "type": "Crypto"
+  },
+  {
+    "name": "KAS",
+    "index": 94,
+    "type": "Crypto"
+  },
+  {
+    "name": "ICP",
+    "index": 95,
+    "type": "Crypto"
+  },
+  {
+    "name": "ETC",
+    "index": 96,
+    "type": "Crypto"
+  },
+  {
+    "name": "VET",
+    "index": 97,
+    "type": "Crypto"
+  },
+  {
+    "name": "MNT",
+    "index": 98,
+    "type": "Crypto"
+  },
+  {
+    "name": "POL",
+    "index": 99,
+    "type": "Crypto"
+  },
+  {
+    "name": "RENDER",
+    "index": 100,
+    "type": "Crypto"
+  },
+  {
+    "name": "CRO",
+    "index": 101,
+    "type": "Crypto"
+  },
+  {
+    "name": "ARB",
+    "index": 102,
+    "type": "Crypto"
+  },
+  {
+    "name": "FET",
+    "index": 103,
+    "type": "Crypto"
+  },
+  {
+    "name": "ALGO",
+    "index": 104,
+    "type": "Crypto"
+  },
+  {
+    "name": "TIA",
+    "index": 105,
+    "type": "Crypto"
+  },
+  {
+    "name": "S",
+    "index": 106,
+    "type": "Crypto"
+  },
+  {
+    "name": "FTN",
+    "index": 107,
+    "type": "Crypto"
+  },
+  {
+    "name": "MKR",
+    "index": 108,
+    "type": "Crypto"
+  },
+  {
+    "name": "OP",
+    "index": 109,
+    "type": "Crypto"
+  },
+  {
+    "name": "EOS",
+    "index": 110,
+    "type": "Crypto"
+  },
+  {
+    "name": "INJ",
+    "index": 111,
+    "type": "Crypto"
+  },
+  {
+    "name": "SEI",
+    "index": 112,
+    "type": "Crypto"
+  },
+  {
+    "name": "VIRTUAL",
+    "index": 113,
+    "type": "Crypto"
+  },
+  {
+    "name": "IP",
+    "index": 114,
+    "type": "Crypto"
+  },
+  {
+    "name": "GRT",
+    "index": 115,
+    "type": "Crypto"
+  },
+  {
+    "name": "FLOKI",
+    "index": 116,
+    "type": "Crypto"
+  },
+  {
+    "name": "CRV",
+    "index": 117,
+    "type": "Crypto"
+  },
+  {
+    "name": "GALA",
+    "index": 118,
+    "type": "Crypto"
+  },
+  {
+    "name": "LDO",
+    "index": 119,
+    "type": "Crypto"
+  },
+  {
+    "name": "IOTA",
+    "index": 120,
+    "type": "Crypto"
+  },
+  {
+    "name": "RAY",
+    "index": 121,
+    "type": "Crypto"
+  },
+  {
+    "name": "SAND",
+    "index": 122,
+    "type": "Crypto"
+  },
+  {
+    "name": "ENS",
+    "index": 123,
+    "type": "Crypto"
+  },
+  {
+    "name": "WAL",
+    "index": 124,
+    "type": "Crypto"
+  },
+  {
+    "name": "BSV",
+    "index": 125,
+    "type": "Crypto"
+  },
+  {
+    "name": "BRETT",
+    "index": 126,
+    "type": "Crypto"
+  },
+  {
+    "name": "DEXE",
+    "index": 127,
+    "type": "Crypto"
+  },
+  {
+    "name": "KAIA",
+    "index": 128,
+    "type": "Crypto"
+  },
+  {
+    "name": "FLOW",
+    "index": 129,
+    "type": "Crypto"
+  },
+  {
+    "name": "XTZ",
+    "index": 130,
+    "type": "Crypto"
+  },
+  {
+    "name": "MANA",
+    "index": 131,
+    "type": "Crypto"
+  },
+  {
+    "name": "PYTH",
+    "index": 132,
+    "type": "Crypto"
+  },
+  {
+    "name": "ZEC",
+    "index": 133,
+    "type": "Crypto"
+  },
+  {
+    "name": "RUNE",
+    "index": 134,
+    "type": "Crypto"
+  },
+  {
+    "name": "JTO",
+    "index": 135,
+    "type": "Crypto"
+  },
+  {
+    "name": "PENDLE",
+    "index": 136,
+    "type": "Crypto"
+  },
+  {
+    "name": "AERO",
+    "index": 137,
+    "type": "Crypto"
+  },
+  {
+    "name": "XCN",
+    "index": 138,
+    "type": "Crypto"
+  },
+  {
+    "name": "AIOZ",
+    "index": 139,
+    "type": "Crypto"
+  },
+  {
+    "name": "STRK",
+    "index": 140,
+    "type": "Crypto"
+  },
+  {
+    "name": "MOVE",
+    "index": 141,
+    "type": "Crypto"
+  },
+  {
+    "name": "NEO",
+    "index": 142,
+    "type": "Crypto"
+  },
+  {
+    "name": "DEEP",
+    "index": 143,
+    "type": "Crypto"
+  },
+  {
+    "name": "AXS",
+    "index": 144,
+    "type": "Crypto"
+  },
+  {
+    "name": "EIGEN",
+    "index": 145,
+    "type": "Crypto"
+  },
+  {
+    "name": "KAITO",
+    "index": 146,
+    "type": "Crypto"
+  },
+  {
+    "name": "TURBO",
+    "index": 147,
     "type": "Crypto"
   }
 ]
