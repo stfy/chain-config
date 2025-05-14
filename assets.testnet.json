@@ -400,6 +400,11 @@
     "type": "Crypto"
   },
   {
+    "name": "XMR",
+    "index": 83,
+    "type": "Crypto"
+  },
+  {
     "name": "IMX",
     "index": 84,
     "type": "Crypto"
