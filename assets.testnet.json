@@ -718,5 +718,10 @@
     "name": "TURBO",
     "index": 146,
     "type": "Crypto"
+  },
+  {
+    "name": "mBABYDOGE",
+    "index": 147,
+    "type": "Crypto"
   }
 ]
