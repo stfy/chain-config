@@ -723,5 +723,20 @@
     "name": "mBABYDOGE",
     "index": 147,
     "type": "Crypto"
+  },
+  {
+    "name": "GRASS",
+    "index": 148,
+    "type": "Crypto"
+  },
+  {
+    "name": "CHZ",
+    "index": 149,
+    "type": "Crypto"
+  },
+  {
+    "name": "CHZ",
+    "index": 150,
+    "type": "Crypto"
   }
 ]
