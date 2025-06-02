@@ -738,5 +738,10 @@
     "name": "XAUT",
     "index": 150,
     "type": "Crypto"
+  },
+  {
+    "name": "USDe",
+    "index": 151,
+    "type": "Crypto"
   }
 ]
