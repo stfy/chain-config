@@ -743,5 +743,10 @@
     "name": "USDe",
     "index": 151,
     "type": "Crypto"
+  },
+  {
+    "name": "tgUSD",
+    "index": 152,
+    "type": "Crypto"
   }
 ]
