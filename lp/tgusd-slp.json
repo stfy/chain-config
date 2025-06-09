@@ -1,0 +1,15 @@
+{
+  "address": "0:fedc1ac347465f7dfd5b78dd6dabc22fb18fe75488bd0eee3ddc1e8298743409",
+  "name": "tgUSD Storm LP",
+  "symbol": "tgUSD-SLP",
+  "decimals": "9",
+  "image": "https://static.storm.tg/tgusd-slp-logo.png",
+  "description": "Telegram USD locked in liquidity in Storm Trade (storm.tg)",
+  "social": [
+    "https://t.me/storm_trade_news",
+    "https://t.me/storm_trade_fam"
+  ],
+  "websites": [
+    "https://storm.tg"
+  ]
+}
