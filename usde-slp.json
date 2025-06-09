@@ -1,0 +1,15 @@
+{
+  "address": "0:8f19aa12b350b0c213c4bc7418a268e776e2056f981b71cde5802c1c0601c37e",
+  "name": "USDe Storm LP",
+  "symbol": "USDe-SLP",
+  "decimals": "9",
+  "image": "https://static.storm.tg/usde-slp-logo.png",
+  "description": "Ethena USD locked in liquidity in Storm Trade (storm.tg)",
+  "social": [
+    "https://t.me/storm_trade_news",
+    "https://t.me/storm_trade_fam"
+  ],
+  "websites": [
+    "https://storm.tg"
+  ]
+}
