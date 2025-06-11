@@ -748,5 +748,10 @@
     "name": "tgUSD",
     "index": 152,
     "type": "Crypto"
+  },
+  {
+    "name": "CRCL",
+    "index": 153,
+    "type": "Stock"
   }
 ]
