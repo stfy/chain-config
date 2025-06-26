@@ -755,5 +755,10 @@
     "name": "TEST",
     "index": 200,
     "type": "Crypto"
+  },
+  {
+    "name": "1000BONK2",
+    "index": 2828,
+    "type": "Crypto"
   }
 ]
